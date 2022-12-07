@@ -2346,8 +2346,13 @@ fieldset:disabled a.btn {
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-secondary.dropdown-toggle {
   color: #fff;
+<<<<<<< HEAD
   background-color: #2c78e9;
   border-color: #1165e2;
+=======
+  background-color: #545b62;
+  border-color: #4e555b;
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /*-----------------------------------
     Small devices (landscape phones, 576px and up)
+=======
+/*-----------------------------------
+    Small devices (landscape phones, 576px and up)
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
 ------------------------------------*/
 @media (min-width: 576px) {
   .top-header {
@@ -21,8 +26,13 @@
   }
 }
 
+<<<<<<< HEAD
 /*-----------------------------------
     Medium devices (tablets, 768px and up)
+=======
+/*-----------------------------------
+    Medium devices (tablets, 768px and up)
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
 ------------------------------------*/
 @media (min-width: 768px) {
   .navbar-brand img {
@@ -41,7 +51,11 @@
   .navbar-collapse .nav-link::before {
     content: "\f0d8";
     font-family: FontAwesome;
+<<<<<<< HEAD
     color: #2c78e9;
+=======
+    color: #de1f1f;
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
     position: absolute;
     bottom: 7px;
     line-height: 0;
@@ -55,7 +69,11 @@
     content: "";
     width: 0;
     height: 4px;
+<<<<<<< HEAD
     background-color: #2c78e9;
+=======
+    background-color: #de1f1f;
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
     position: absolute;
     left: 50%;
     bottom: 0;
@@ -103,7 +121,11 @@
   }
   .cart:hover,
   .search-icon:hover {
+<<<<<<< HEAD
     color: #2c78e9;
+=======
+    color: #ee1515;
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
   }
   .search-icon {
     margin: 0 13px;
@@ -137,8 +159,13 @@
   }
 }
 
+<<<<<<< HEAD
 /*-----------------------------------
     Large devices (desktops, 992px and up)
+=======
+/*-----------------------------------
+    Large devices (desktops, 992px and up)
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
 ------------------------------------*/
 @media (min-width: 992px) {
   .navbar-expand-md .navbar-nav .nav-link {
@@ -165,8 +192,13 @@
   }
 }
 
+<<<<<<< HEAD
 /*-----------------------------------
     Extra large devices (large desktops, 1200px and up)
+=======
+/*-----------------------------------
+    Extra large devices (large desktops, 1200px and up)
+>>>>>>> 359166c4419829004c74cd1699b9867d9696dd20
 ------------------------------------*/
 @media (min-width: 1200px) {
   .navbar-brand img {
