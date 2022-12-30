@@ -6,19 +6,19 @@
                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>https://www.uaeimpulse.com/</loc>
-		<lastmod>2022-12-30T17:35:37+00:00</lastmod>
+		<lastmod>2022-12-31T00:35:37+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.00</priority>
 	</url>
 	<url>
 		<loc>https://www.uaeimpulse.com/index.html</loc>
-		<lastmod>2022-12-30T17:35:37+00:00</lastmod>
+		<lastmod>2022-12-31T00:35:37+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.53</priority>
 	</url>
 	<url>
-		<loc>https://www.uaeimpulse.com/computer_repair.html</loc>
-		<lastmod>2022-12-30T17:35:37+00:00</lastmod>
+		<loc>https://www.uaeimpulse.com/computer.html</loc>
+		<lastmod>2022-12-31T00:35:37+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.53</priority>
 	</url>
