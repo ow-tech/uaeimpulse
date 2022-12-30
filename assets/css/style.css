@@ -176,12 +176,20 @@ form button.btn-primary:hover {
 /*-----------------------------------
     1 - Hero
 ------------------------------------*/
-.hero {
+.home{
   background: url("../images/hero-bgg.jpg") no-repeat center;
   background-size: cover;
   overflow: hidden;
   position: relative;
   z-index: 0;
+}
+.comp{
+  background: url("../images/AdobeStock_197524786_Preview.jpeg") no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+
 }
 
 .hero .container {
