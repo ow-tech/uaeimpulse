@@ -65,7 +65,8 @@ header::after {
   font-size: 12px;
 }
 
-.tel {
+.tels {
+  display: none;
   margin-right: 30px;
 }
 
@@ -961,4 +962,11 @@ span {
 
 .foot-note a.fh5-link {
   margin-left: 0;
+}
+@media only screen and (max-width: 574px){
+	.tels{
+    display: block;
+    margin-right: 30px;
+    
+  }
 }
